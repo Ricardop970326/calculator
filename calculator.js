@@ -52,7 +52,7 @@ class Calculator{
 
             break
         case '/':
-            if (current === 0) this.error = "Divide by zero equals infinity so this is null";
+            if (current === 0) this.error = "Can not divide by zero so this is null";
         else computation = prev / current;
             break  
         default:
