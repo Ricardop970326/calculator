@@ -17,16 +17,16 @@ Include Files: Integrate the Calculator Add-On into your project by including th
 
 HTML Structure: Use the provided HTML structure to add the calculator interface to your project. Customize the appearance or functionality as needed to match your project's design.
 
-Customization: Modify the CSS, JavaScript, and HTML files to tailor the calculator to your specific requirements. You can adjust colors, layout, or add additional functionality as per your project needs.
+Customization: Modify the CSS, JavaScript, and HTML files to tailor the calculator to your specific requirements. You can adjust colors, and layout, or add additional functionality as per your project needs.
 
 Getting Started
 To quickly integrate the Calculator Add-On into your project, follow these steps:
 
 Clone the repository to your local machine:
 
-bash
 Copy code
 git clone <repository-url>
+
 Include the necessary files in your project:
 
 Link the calculator.css file in the <head> section of your HTML document.
